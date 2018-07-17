@@ -1,1 +1,2 @@
-Hack Princeton First Time Experience Website -- created for Hack Princeton Fall 2017
+
+Naija Hacks First Time Experience.
