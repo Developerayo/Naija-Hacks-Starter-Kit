@@ -1,2 +1,1 @@
-# Naija-Hacks-Starter-Kit
-Naija Hacks Starter-Kit
+Hack Princeton First Time Experience Website -- created for Hack Princeton Fall 2017
